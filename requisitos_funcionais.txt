@@ -1,0 +1,4 @@
+REQUISITOS FUNCIONAIS
+RF01 - Cadastro de Clientes
+RF04 - Gerenciamento do Carrinho de Compras
+RF07 - Cálculo Automático de Frete
