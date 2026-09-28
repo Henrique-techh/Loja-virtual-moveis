@@ -1,0 +1,3 @@
+TABELA DE RASTREABILIDADE
+RF01 | Login de Usuário | Tela de Login | Concluído
+RF04 | Carrinho de Compras | Tela do Carrinho | Concluído
