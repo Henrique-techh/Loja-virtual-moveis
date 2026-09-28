@@ -1,0 +1,3 @@
+REQUISITOS NÃO FUNCIONAIS
+RNF01 - Tempo de resposta menor que 2 segundos
+RNF02 - Proteção de senhas com criptografia
